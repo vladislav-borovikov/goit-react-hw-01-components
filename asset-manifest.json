@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/goit-react-hw-01-components/static/css/main.abd64e84.css",
+    "main.js": "/goit-react-hw-01-components/static/js/main.a5689b13.js",
+    "static/media/166494-igra_v_kalmara_squid_game-500x.jpg": "/goit-react-hw-01-components/static/media/166494-igra_v_kalmara_squid_game-500x.8a1eef666a36e11b7db6.jpg",
+    "index.html": "/goit-react-hw-01-components/index.html",
+    "main.abd64e84.css.map": "/goit-react-hw-01-components/static/css/main.abd64e84.css.map",
+    "main.a5689b13.js.map": "/goit-react-hw-01-components/static/js/main.a5689b13.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.a5689b13.js"
+  ]
+}
