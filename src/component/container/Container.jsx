@@ -3,7 +3,7 @@ import PropTypes from "prop-types";
 const Container = ({ children, title }) => {
   return (
     <section className="statistics">
-      <h2 className="title">{title}</h2>
+      {title && <h2>{title}</h2>}
       {children}
     </section>
   );
